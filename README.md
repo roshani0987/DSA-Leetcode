@@ -44,6 +44,7 @@
 ## Math
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roshani0987/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -73,6 +74,7 @@
 ## String
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -151,4 +153,8 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+## Simulation
+|  |
+| ------- |
+| [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 <!---LeetCode Topics End-->
