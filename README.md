@@ -11,6 +11,7 @@
 | [0031-next-permutation](https://github.com/roshani0987/DSA-Leetcode/tree/master/0031-next-permutation) |
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshani0987/DSA-Leetcode/tree/master/0041-first-missing-positive) |
+| [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
 ## Matrix
 |  |
 | ------- |
