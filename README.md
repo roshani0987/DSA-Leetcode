@@ -12,6 +12,7 @@
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshani0987/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
@@ -29,6 +30,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/roshani0987/DSA-Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0018-4sum) |
+| [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
@@ -128,6 +130,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 ## Matrix
 |  |
 | ------- |
