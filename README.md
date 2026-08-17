@@ -16,6 +16,7 @@
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
+| [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
+| [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roshani0987/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
@@ -118,6 +120,7 @@
 ## Game Theory
 |  |
 | ------- |
+| [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Nim Game
 |  |
@@ -149,6 +152,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
 | ------- |
