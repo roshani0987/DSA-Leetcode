@@ -43,6 +43,7 @@
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshani0987/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -87,10 +88,12 @@
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
