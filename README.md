@@ -15,6 +15,7 @@
 | [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
+| [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
@@ -40,6 +41,7 @@
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/roshani0987/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -108,6 +110,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
@@ -161,4 +164,8 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
+## Bit Manipulation
+|  |
+| ------- |
+| [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 <!---LeetCode Topics End-->
