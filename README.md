@@ -15,6 +15,7 @@
 | [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
@@ -149,6 +150,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
 | [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
+| [0063-unique-paths-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -162,6 +164,7 @@
 | ------- |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
