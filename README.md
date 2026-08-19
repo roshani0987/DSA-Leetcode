@@ -49,6 +49,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
+| [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
@@ -160,6 +161,7 @@
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
+| [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
@@ -176,4 +178,8 @@
 | ------- |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
