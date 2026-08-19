@@ -52,6 +52,7 @@
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roshani0987/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -185,4 +186,12 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
