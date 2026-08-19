@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
+| [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
@@ -146,6 +147,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/roshani0987/DSA-Leetcode/tree/master/0037-sudoku-solver) |
+| [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 ## Algorithm X
 |  |
 | ------- |
@@ -167,6 +169,7 @@
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
+| [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 ## Bit Manipulation
 |  |
