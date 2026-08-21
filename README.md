@@ -21,6 +21,7 @@
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -56,6 +57,7 @@
 | [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roshani0987/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Enumeration
 |  |
@@ -185,16 +187,23 @@
 | ------- |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
