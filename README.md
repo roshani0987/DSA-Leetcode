@@ -52,6 +52,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/roshani0987/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
@@ -190,6 +191,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/roshani0987/DSA-Leetcode/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
