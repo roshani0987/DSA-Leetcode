@@ -31,6 +31,7 @@
 | [0018-4sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0018-4sum) |
 | [0027-remove-element](https://github.com/roshani0987/DSA-Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/roshani0987/DSA-Leetcode/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/roshani0987/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
 | ------- |
@@ -95,6 +96,7 @@
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/roshani0987/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
