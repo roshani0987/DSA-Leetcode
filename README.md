@@ -60,6 +60,7 @@
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -182,6 +183,7 @@
 | [0044-wildcard-matching](https://github.com/roshani0987/DSA-Leetcode/tree/master/0044-wildcard-matching) |
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
@@ -247,4 +249,8 @@
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
