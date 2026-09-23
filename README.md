@@ -22,6 +22,7 @@
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
@@ -50,6 +51,7 @@
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3731-find-missing-elements](https://github.com/roshani0987/DSA-Leetcode/tree/master/3731-find-missing-elements) |
 ## Math
@@ -106,6 +108,7 @@
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Monotonic Stack
 |  |
@@ -213,6 +216,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/roshani0987/DSA-Leetcode/tree/master/0069-sqrtx) |
 | [0493-reverse-pairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Newton's Method
 |  |
@@ -254,4 +258,8 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+## Prefix Sum
+|  |
+| ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
