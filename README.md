@@ -233,6 +233,7 @@
 | ------- |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
 | [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -270,6 +271,7 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -279,4 +281,9 @@
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
+| [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
