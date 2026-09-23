@@ -166,6 +166,7 @@
 | [0046-permutations](https://github.com/roshani0987/DSA-Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0047-permutations-ii) |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -188,6 +189,7 @@
 | [0062-unique-paths](https://github.com/roshani0987/DSA-Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0070-climbing-stairs) |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
 ## Recursion
 |  |
@@ -262,4 +264,16 @@
 |  |
 | ------- |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+## Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
