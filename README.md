@@ -232,6 +232,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
+| [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -268,6 +269,7 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -276,4 +278,5 @@
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0110-balanced-binary-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
