@@ -19,6 +19,7 @@
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/roshani0987/DSA-Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0493-reverse-pairs](https://github.com/roshani0987/DSA-Leetcode/tree/master/0493-reverse-pairs) |
+| [0724-find-pivot-index](https://github.com/roshani0987/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
 | [1563-stone-game-v](https://github.com/roshani0987/DSA-Leetcode/tree/master/1563-stone-game-v) |
@@ -272,6 +273,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/roshani0987/DSA-Leetcode/tree/master/0724-find-pivot-index) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Tree
 |  |
