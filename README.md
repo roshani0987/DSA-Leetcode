@@ -105,6 +105,7 @@
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/roshani0987/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/roshani0987/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
@@ -171,6 +172,7 @@
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
 | [0095-unique-binary-search-trees-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 ## Matrix
 |  |
 | ------- |
@@ -293,4 +295,5 @@
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
+| [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
