@@ -108,6 +108,7 @@
 | [0125-valid-palindrome](https://github.com/roshani0987/DSA-Leetcode/tree/master/0125-valid-palindrome) |
 | [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/roshani0987/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/roshani0987/DSA-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/roshani0987/DSA-Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
