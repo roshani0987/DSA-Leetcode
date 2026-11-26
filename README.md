@@ -52,6 +52,7 @@
 | [0041-first-missing-positive](https://github.com/roshani0987/DSA-Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/roshani0987/DSA-Leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
+| [0208-implement-trie-prefix-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1386-cinema-seat-allocation](https://github.com/roshani0987/DSA-Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/roshani0987/DSA-Leetcode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/roshani0987/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/roshani0987/DSA-Leetcode/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/roshani0987/DSA-Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/roshani0987/DSA-Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1472-design-browser-history](https://github.com/roshani0987/DSA-Leetcode/tree/master/1472-design-browser-history) |
@@ -107,6 +109,7 @@
 | [0076-minimum-window-substring](https://github.com/roshani0987/DSA-Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/roshani0987/DSA-Leetcode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/roshani0987/DSA-Leetcode/tree/master/0125-valid-palindrome) |
+| [0208-implement-trie-prefix-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/roshani0987/DSA-Leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/roshani0987/DSA-Leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -304,4 +307,8 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/roshani0987/DSA-Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0112-path-sum](https://github.com/roshani0987/DSA-Leetcode/tree/master/0112-path-sum) |
 | [0301-remove-invalid-parentheses](https://github.com/roshani0987/DSA-Leetcode/tree/master/0301-remove-invalid-parentheses) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/roshani0987/DSA-Leetcode/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->
