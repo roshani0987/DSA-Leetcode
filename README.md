@@ -70,6 +70,7 @@
 | [2029-stone-game-ix](https://github.com/roshani0987/DSA-Leetcode/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/roshani0987/DSA-Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/roshani0987/DSA-Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3360-stone-removal-game](https://github.com/roshani0987/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/roshani0987/DSA-Leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Enumeration
@@ -209,6 +210,7 @@
 | [0043-multiply-strings](https://github.com/roshani0987/DSA-Leetcode/tree/master/0043-multiply-strings) |
 | [0059-spiral-matrix-ii](https://github.com/roshani0987/DSA-Leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/roshani0987/DSA-Leetcode/tree/master/0067-add-binary) |
+| [3360-stone-removal-game](https://github.com/roshani0987/DSA-Leetcode/tree/master/3360-stone-removal-game) |
 ## Bit Manipulation
 |  |
 | ------- |
