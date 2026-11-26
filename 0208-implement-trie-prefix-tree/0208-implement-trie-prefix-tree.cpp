@@ -1,8 +1,16 @@
 
 class Trie {
+private:
     struct Node {
-        Node* child[26] = {};
-        bool end = false;
+        Node* links[26];
+        bool flag;
+
+        Node() {
+            for (int i = 0; i < 26; i++) {
+                links[i] = nullptr;
+            }
+            flag = false;
+        }
     };
 
     Node* root;
@@ -13,41 +21,48 @@ public:
     }
 
     void insert(string word) {
-        Node* cur = root;
+        Node* node = root;
 
-        for (char c : word) {
-            int i = c - 'a';
+        for (char ch : word) {
+            int idx = ch - 'a';
 
-            if (!cur->child[i])
-                cur->child[i] = new Node();
+            if (node->links[idx] == nullptr) {
+                node->links[idx] = new Node();
+            }
 
-            cur = cur->child[i];
+            node = node->links[idx];
         }
 
-        cur->end = true;
+        node->flag = true;
     }
 
     bool search(string word) {
-        Node* cur = root;
+        Node* node = root;
 
-        for (char c : word) {
-            cur = cur->child[c - 'a'];
+        for (char ch : word) {
+            int idx = ch - 'a';
 
-            if (!cur)
+            if (node->links[idx] == nullptr) {
                 return false;
+            }
+
+            node = node->links[idx];
         }
 
-        return cur->end;
+        return node->flag;
     }
 
     bool startsWith(string prefix) {
-        Node* cur = root;
+        Node* node = root;
 
-        for (char c : prefix) {
-            cur = cur->child[c - 'a'];
+        for (char ch : prefix) {
+            int idx = ch - 'a';
 
-            if (!cur)
+            if (node->links[idx] == nullptr) {
                 return false;
+            }
+
+            node = node->links[idx];
         }
 
         return true;
